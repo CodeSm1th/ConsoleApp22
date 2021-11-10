@@ -9,6 +9,7 @@ namespace ConsoleApp22
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bruh");
             Console.WriteLine("22k2k2kk");
+            Console.WriteLine("kasdakdasdasd")
         }
     }
 }
